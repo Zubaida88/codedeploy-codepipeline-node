@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: APP.js
+  - source: node.js
     destination: /var/www/
 hooks:
   BeforeInstall:
